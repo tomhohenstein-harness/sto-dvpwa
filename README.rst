@@ -2,7 +2,7 @@
 DVPWA -- Damn Vulnerable Python Web Application
 ===============================================
 
-Testing PR w/vars 
+Testing PR 
 
 Description
 ===========
